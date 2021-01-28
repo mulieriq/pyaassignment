@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/assignment.iml" filepath="$PROJECT_DIR$/.idea/assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../CodeSamples/Python/micropilot-entry-challenge/.idea/micropilot-entry-challenge.iml" filepath="$PROJECT_DIR$/../../../CodeSamples/Python/micropilot-entry-challenge/.idea/micropilot-entry-challenge.iml" />
     </modules>
   </component>
 </project>
