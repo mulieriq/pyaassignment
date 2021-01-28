@@ -1,3 +1,9 @@
+"""
+Name: Peter Mark Kaiganaine
+Reg No: F21/136578/2019
+"""
+
+
 ASCII_LOWERCASE = "abcdefghijklmnopqrstuvwxyz"
 ASCII_UPPERCASE = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 DECIMAL_DIGITS = "0123456789"

@@ -1,0 +1,18 @@
+reference	number	Name	lat	lon	diameter
+#	Name	Lat	Lon	D
+1	Mead	12.5	57	268.7
+9	Joliot-Curie	-1.7	62.4	100.9
+14	Potanina	31.7	53	89.6
+15	Bonnevie	-36.1	127	87.6
+21	Boulanger	-26.6	99.3	73.7
+28	Andreianova	-3	68.7	69.5
+38	Hepworth	5.1	94.6	62.5
+reference	number	Name	lat	lon	diameter
+#	Name	Lat	Lon	D
+1	Mead	12.5	57	268.7
+9	Joliot-Curie	-1.7	62.4	100.9
+14	Potanina	31.7	53	89.6
+15	Bonnevie	-36.1	127	87.6
+21	Boulanger	-26.6	99.3	73.7
+28	Andreianova	-3	68.7	69.5
+38	Hepworth	5.1	94.6	62.5

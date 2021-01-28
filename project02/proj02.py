@@ -1,13 +1,11 @@
 """
-Name: Gesora Ian Maranga
-Reg No: F21/2253/2019
-Assignment: proj02
-
+Name: Peter Mark Kaiganaine
+Reg No: F21/136578/2019
 """
 
 
 def get_data_list(FILE_NAME):
-    #dataList to hold extracted data
+    # dataList to hold extracted data
     dataList = []
     file = open(FILE_NAME, 'r')
     for line in file.readlines()[1:]:
@@ -44,5 +42,3 @@ def print_info(monthly_average_list):
     monthly_average_list.reverse()
     for (stock, year) in monthly_average_list[0:6]:
         print(year, ',', stock)
-
-
