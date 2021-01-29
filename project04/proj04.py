@@ -1,9 +1,6 @@
 """
-Name: Kanyari Peter Muriithi
-Reg No: F21/2242/2019
-Project04
-Version: First Attempt
-Date: 15/01/2021
+Name: Peter Mark Kaiganaine
+Reg No: F21/136578/2019
 """
 
 import math

@@ -3,8 +3,6 @@ Name: Peter Mark Kaiganaine
 Reg No: F21/136578/2019
 """
 
-
-
 def get_crater_tuple(line_str):
     return tuple(line_str.split('\t')[0:5])
 
